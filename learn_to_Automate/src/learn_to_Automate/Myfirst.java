@@ -9,6 +9,8 @@ public class Myfirst {
 
 	public static reply_to_mendu(){
 		System.out.println("I love you 2 motke mendu --> I will teach you an automation");
+		System.out.println("Motka mujhpe gussa krta hai.......");
+
 	}
 
 }
