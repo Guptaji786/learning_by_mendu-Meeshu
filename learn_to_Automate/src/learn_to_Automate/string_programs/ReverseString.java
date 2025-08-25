@@ -1,4 +1,4 @@
-package src.learn_to_Automate.string_programs;
+package learn_to_Automate.string_programs;
 
 public class ReverseString {
 

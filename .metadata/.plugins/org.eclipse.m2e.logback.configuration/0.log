@@ -44,3 +44,79 @@
 2025-08-23 14:51:48,686 [Worker-16: Launching Myfirst] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
 2025-08-23 14:51:48,688 [Worker-16: Launching Myfirst] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2025-08-23 14:51:48,691 [Worker-16: Launching Myfirst] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-24 22:46:38,059 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 22:46:38,063 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-24 22:46:38,065 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 22:46:38,068 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-24 22:47:27,853 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 22:47:27,855 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-24 22:47:27,859 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 22:47:27,861 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-24 22:49:37,414 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 22:49:37,417 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-24 22:49:37,421 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 22:49:37,423 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-24 23:02:05,873 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-08-24 23:25:21,088 [Worker-22: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-24 23:41:09,955 [Worker-21: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-24 23:41:53,645 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 23:41:53,700 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-24 23:41:53,728 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 23:41:53,741 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-24 23:43:57,671 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 23:43:57,681 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-24 23:43:57,695 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 23:43:57,703 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-24 23:45:07,438 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 23:45:07,451 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-24 23:45:07,464 [Worker-24: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 23:45:07,471 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-24 23:45:56,810 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 23:45:56,817 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-24 23:45:56,825 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 23:45:56,832 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-24 23:46:05,861 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 23:46:05,868 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-24 23:46:05,876 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-24 23:46:05,881 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-25 00:11:53,724 [Worker-13: Launching DigitSum] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 00:11:53,728 [Worker-13: Launching DigitSum] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-25 00:11:53,733 [Worker-13: Launching DigitSum] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 00:11:53,737 [Worker-13: Launching DigitSum] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-25 00:12:29,257 [Worker-30: Launching DigitSum] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 00:12:29,261 [Worker-30: Launching DigitSum] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-25 00:12:29,265 [Worker-30: Launching DigitSum] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 00:12:29,268 [Worker-30: Launching DigitSum] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-25 22:41:50,901 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-08-25 22:42:52,312 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 22:42:52,320 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-25 22:42:52,326 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 22:42:52,330 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-25 22:44:28,287 [Worker-8: Launching Strings] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 22:44:28,291 [Worker-8: Launching Strings] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-25 22:44:28,294 [Worker-8: Launching Strings] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 22:44:28,297 [Worker-8: Launching Strings] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-25 22:44:47,777 [Worker-1: Launching Strings] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 22:44:47,779 [Worker-1: Launching Strings] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-25 22:44:47,788 [Worker-1: Launching Strings] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 22:44:47,789 [Worker-1: Launching Strings] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-25 22:47:18,605 [Worker-0: Launching Strings] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 22:47:18,608 [Worker-0: Launching Strings] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-25 22:47:18,611 [Worker-0: Launching Strings] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 22:47:18,613 [Worker-0: Launching Strings] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-25 22:55:41,565 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 22:55:41,567 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-25 22:55:41,569 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 22:55:41,572 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-25 23:14:21,042 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 23:14:21,045 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-25 23:14:21,047 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 23:14:21,050 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-25 23:14:25,347 [Worker-7: Launching lettercount] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 23:14:25,351 [Worker-7: Launching lettercount] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-25 23:14:25,355 [Worker-7: Launching lettercount] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 23:14:25,359 [Worker-7: Launching lettercount] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
+2025-08-25 23:19:52,471 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 23:19:52,482 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\main\resources
+2025-08-25 23:19:52,487 [Worker-29: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2025-08-25 23:19:52,489 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\cssmg0140425\learn_menduMeeshu\learn_to_Automate\src\test\resources
