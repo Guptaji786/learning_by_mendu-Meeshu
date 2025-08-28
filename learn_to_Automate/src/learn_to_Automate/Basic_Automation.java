@@ -2,6 +2,7 @@ package learn_to_Automate;
 
 import java.time.Duration;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -10,8 +11,9 @@ public class Basic_Automation {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.setProperty("webdriver.chrome.driver",
-				"C:\\Users\\cssmg0140425\\Downloads\\chromedriver-win64\\chromedriver-win64/chromedriver.exe");
+//		System.setProperty("webdriver.chrome.driver",
+//				"C:\\Users\\cssmg0140425\\Downloads\\chromedriver-win64\\chromedriver-win64/chromedriver.exe");
+		WebDriverManager.chromedriver().setup(); //learn about this
 		WebDriver driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		driver.manage().window().maximize();
@@ -47,5 +49,8 @@ public class Basic_Automation {
 		System.out.println(driver.getCurrentUrl());
 
 	}
+
+	//create two tests based on testNG and manage all the test scenarios through testNG
+	//Do the above two functions in a testNG framework
 
 }
