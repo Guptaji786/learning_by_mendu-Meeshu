@@ -1,8 +1,34 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="TestNGLearningSuite">
-    <test name="SampleTests">
+<suite name="Parameter test suite">
+    <parameter name = "suite-param" value="suite level parameter"/>
+    <test name="Parameter Test One">
         <classes>
-            <class name="com.practice.SampleTest"/>
+            <class name="com.parameterization_concept.ParameterTest">
+                <methods>
+                    <include name="parameterTestOne" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Parameter Test Two">
+        <parameter name="test-two-param" value="test two parm value"/>
+        <classes>
+            <class name="com.parameterization_concept.ParameterTest">
+                <methods>
+                    <include name="parameterTestTwo" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Parameter Test Three">
+        <parameter name = "suite-param" value="overriding suit parameter"/>
+        <parameter name="test-three-param" value="test three param value"/>
+        <classes>
+            <class name="com.parameterization_concept.ParameterTest">
+                <methods>
+                    <include name="parameterTestThree" />
+                </methods>
+            </class>
         </classes>
     </test>
 </suite>
